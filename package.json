@@ -1,0 +1,9 @@
+{
+  "name": "destraba360",
+  "version": "1.0.0",
+  "description": "Proyecto Destraba360 con funci\u00f3n de chat usando OpenAI",
+  "main": "index.js",
+  "dependencies": {
+    "openai": "^4.30.1"
+  }
+}
